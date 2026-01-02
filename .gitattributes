@@ -1,0 +1,3 @@
+metadata/*.json -text
+targets/* -text
+.nojekyll -text
