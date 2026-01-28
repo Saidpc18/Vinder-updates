@@ -2,12 +2,12 @@
  "signatures": [
   {
    "keyid": "059eb6630946b63e69e017c5faae69793dddc56a6ac93b37f5a77881458288a8",
-   "sig": "8da2fd2701f0f099ca74737c9d813c3e935412c7c88536993a4129e0623a16ec942a3c3800ebf43e3123bd42dd8d23404c7b280fb216a5f584c45602f058650c"
+   "sig": "db2d33a105c47adb3384d995535558ac79d0ab2d4cd4d192c789f23a75d95cf746f896a7a0804a6248e06e7e71d1f38fa9e4c0e4f718fd0f2957eca4bcff780f"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "4763-12-26T00:34:27Z",
+  "expires": "2037-01-10T00:44:58Z",
   "spec_version": "1.0.31",
   "targets": {
    "Vinder-0.0.9.tar.gz": {
