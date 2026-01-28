@@ -2,12 +2,12 @@
  "signatures": [
   {
    "keyid": "059eb6630946b63e69e017c5faae69793dddc56a6ac93b37f5a77881458288a8",
-   "sig": "7b2f7015b468570cc7cdac993fcb85c7ba29c18180bbd4ea58485a35a5c3492f7d131f7c6c82aadc601964cb9cf01425cd65a9eb61eced5993ebe386b045c708"
+   "sig": "bb879f97ce6f573fe7972f13f6dc42eb791f3dcb7f5e482df80f501311a270ecb4c52c2c16b4b6afdbdec69c3e3d14412f453a66eeabc2b05b16e112c7c8f805"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2037-01-10T19:37:57Z",
+  "expires": "2037-01-10T19:48:42Z",
   "spec_version": "1.0.31",
   "targets": {
    "Vinder-0.0.10.tar.gz": {
@@ -46,6 +46,18 @@
     },
     "length": 37738068
    },
+   "Vinder-0.0.13.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "d34eefb8d5bb16d58889ed9b94e4a712f1f905d8029b7596504d163f946c4351"
+    },
+    "length": 37738305
+   },
    "Vinder-0.0.9.tar.gz": {
     "custom": {
      "tufup": {
@@ -59,6 +71,6 @@
     "length": 38832009
    }
   },
-  "version": 5
+  "version": 6
  }
 }
