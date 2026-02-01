@@ -1,7 +1,0 @@
-2026-01-27 19:22:32,856 - INFO - [CONFIG] API_BASE=https://flaskstripeserver-production.up.railway.app
-2026-01-27 19:22:33,067 - INFO - [CLIENTS] Using AppData clients at C:\Users\saidp\AppData\Local\Vinder\clients
-2026-01-27 19:22:43,860 - INFO - [CLIENTS] Using AppData clients at C:\Users\saidp\AppData\Local\Vinder\clients
-2026-01-27 19:22:43,862 - INFO - [CLIENT] Cliente activo: jm (JM)
-2026-01-27 19:22:50,793 - INFO - No signature for keyid bb478d171e31e4aaa990aae31686d600d07265e9d35ed87ad4f5ad0ee1825665
-2026-01-27 19:22:50,793 - WARNING - Cannot refresh metadata: timestamp was signed by 0/1 keys
-2026-01-27 19:22:50,794 - INFO - [UPDATER] check_for_updates() => None
