@@ -1,10 +1,2 @@
-
-.tufup-repo-config
-
-
-metadata_BACKUP/
-metadata_BACKUP2/
-
-
-app.log
-
+﻿# Ignore local signing keys (DO NOT COMMIT)
+tufup_keys/
